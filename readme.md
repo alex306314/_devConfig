@@ -5,6 +5,7 @@
 ### 操作步骤
 
 * 复制 .eslintrc.js  package.json到父目录
+* 复制 _devConfig/appConfig.js.bak  到 _devConfig/appConfig.js 并根据项目需求修改相关配置
 * 运行 
 
 ```
